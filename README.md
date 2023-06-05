@@ -42,3 +42,22 @@ entry_points={
         'video_publisher = ssd_detection.video_publisher:main',
         ],
 ```
+
+# 추가
+```
+num_car = 0
+    num_bus = 0
+    num_truck = 0
+    num_motor = 0
+    
+    prediction = model([preprocess(image).to(device)])[0] #모델 추론
+    for label in prediction['labels']:
+        if label == 1:
+            num_car += 1
+        elif label == 2:
+            num_bus += 1
+        elif label == 3:
+            num_truck += 1
+        elif label == 4:
+            num_motor += 1
+   ```
