@@ -24,6 +24,9 @@ https://drive.google.com/file/d/1fShOH7GZPoLSlGpTXjN84470WdkTIGZY/view?usp=shari
 ```
 https://drive.google.com/file/d/12IAbt8V-rwK1Qtf3i9C17hiZUuc31aHh/view?usp=sharing
 ```
+```
+https://drive.google.com/file/d/1Xs-bFgZi4EvUphr6d_g0dVs0o8pb1gJa/view?usp=sharing
+```
 
 # 영상 Publisher Entry_point 수정(setup.py의 entry point 부분)
 ```
