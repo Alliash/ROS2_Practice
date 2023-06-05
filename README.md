@@ -16,3 +16,12 @@ https://drive.google.com/file/d/1iuLCzKIcyVX69ViPu3-E7vV4bBwVQn-l/view?usp=shari
 
 # custom_test_video
 https://drive.google.com/file/d/1vd_VjFPXacO7ei-0VZeiRxaiybJmwWmO/view?usp=sharing
+
+
+# 영상 Publisher Entry_point 수정(setup.py의 entry point 부분)
+
+entry_points={
+        'console_scripts': [
+        'detection_example = ssd_detection.ssd_detection:main',
+        'video_publisher = ssd_detection.video_publisher:main',
+        ],
