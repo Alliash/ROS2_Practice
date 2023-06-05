@@ -30,6 +30,9 @@ https://drive.google.com/file/d/1Xs-bFgZi4EvUphr6d_g0dVs0o8pb1gJa/view?usp=shari
 ```
 https://drive.google.com/file/d/11steWywZquoNSgWv0VIYWwQvLV24vgrz/view?usp=sharing
 ```
+```
+https://drive.google.com/file/d/1fWBjlyaEpL5-f9qjr4P1zz90UI0Gc3TQ/view?usp=sharing
+```
 
 # 영상 Publisher Entry_point 수정(setup.py의 entry point 부분)
 ```
